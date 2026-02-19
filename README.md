@@ -1,4 +1,3 @@
-# Sales-Performance-Revenue-Analysis
 # Sales Performance & Revenue Analysis
 
 This repository contains an end‑to‑end sales analytics project built on the Sample Superstore dataset. It covers data cleaning, feature engineering, cohort analysis, SQL reporting, and a simple machine learning model for loss prediction.[file:3][file:2]
